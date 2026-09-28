@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-dns-wire-protocol-parser-skill"
+version = "1.0.0"
+description = "DNS binary wire format packet builder, label compression reader, and header parser"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-dns-wire-protocol-parser-skill.git"
