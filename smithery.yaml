@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-dns-wire-protocol-parser-skill
+service:
+  name: genpark-dns-wire-protocol-parser-skill
+  command: python
+  args:
+    - mcp_server.py
